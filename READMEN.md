@@ -1,4 +1,4 @@
-# Gesture Recognition Case study IIITB Assignment [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# Gesture Recognition Case study IIITB Assignment [![](https://img.shields.io/badge/Yashraj-Pathak-brightgreen.svg?colorB=ff0000)](https://yashrajpathak.github.io/Portfolio/)
 
 
 Developed by:
@@ -37,7 +37,7 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Results:
 
-![observations](https://user-images.githubusercontent.com/29462447/86066095-d501aa80-ba8e-11ea-82d8-4681e20e310e.png)
+![observations](https://github.com/YashrajPathak/Gesture_Recognition/blob/5fee7b85414bbabbbb9a31ab85c3d68e48b0ac23/Gesture_Recognition_write_up_Yashraj_Sanjay.pdf)
 
 I choose CNN+LSTM based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
